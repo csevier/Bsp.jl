@@ -1,0 +1,10 @@
+name = "Bsp"
+uuid = "88af5b2a-1292-4409-bdf8-e314ef32adc0"
+authors = ["Cody Sevier <sevierit@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+SimpleDirectMediaLayer = "98e33af6-2ee5-5afd-9e75-cbc738b767c4"
+
+[compat]
+SimpleDirectMediaLayer = "0.5.0"

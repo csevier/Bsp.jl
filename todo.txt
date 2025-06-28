@@ -1,0 +1,33 @@
+Data / Assets
+=============
+1. Improve pwad patching support
+    - patching is botched at the moment.
+3. Make sky texture more identifiable, possibly with mapinfo?
+4. Support pk3?
+
+Rendering
+==========
+1. Not all texture offsets are correct leading to busted textures (The textures appear to be shifting positive x with more distance
+2. Need to draw masked: sprites, transparent walls etc
+3. Diminished lighting via color maps!
+4. Texture Animation
+5. Sprite Animation
+6. Sprite Angles from player view
+8. Consider moving to visplanes over flat columns?
+10. Color effects via pallets
+11. Every single freedoom1, freedoom2, freedm, blasphamerer and blasdm map has to render without error.
+    - I think ive done it. playtest playtest playtest!
+
+Julia
+===========
+Make it a package
+
+Documentation
+===========
+Doc comment every single function and algorith
+Generate documentation webseit for it with Documenter.Julia
+
+Testing
+===========
+Unit test added where Possible
+beta test with friends.
