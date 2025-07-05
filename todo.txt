@@ -20,7 +20,7 @@ Rendering
 
 Julia
 ===========
-Make it a package
+Put it in julia package repo?
 
 Documentation
 ===========
